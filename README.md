@@ -2,11 +2,9 @@
 Beginner-friendly C++ codes aligned with the CodeHelp playlist, designed to master programming fundamentals. Includes topics like syntax, OOP concepts, STL, and advanced techniques with examples. It is organized by topic for easy navigation.
 
 ## Topics Covered:
-- **Basics**: Syntax, conditionals, loops
+- **Basic Syntax**: Conditionals, Loops, Operators, Switch Case
 - **Functions**: Function overloading, recursion
-- **OOP**: Classes, inheritance, polymorphism
-- **STL**: Vectors, maps, sets, etc.
-- **Advanced**: Pointers, file handling, etc.
+- **STL**: Arrays, Vectors, Deque, List, Stack, Queue, Priority Queue, Sets, Maps
 
 ### How to Use:
 1. Clone the repository.
